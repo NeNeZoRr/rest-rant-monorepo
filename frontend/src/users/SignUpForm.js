@@ -54,7 +54,6 @@ function SignUpForm() {
 						/>
 					</div>
 				</div>
-
 				<div className="row">
 					<div className="col-sm-6 form-group">
 						<label htmlFor="email">Email</label>
@@ -81,7 +80,6 @@ function SignUpForm() {
 						/>
 					</div>
 				</div>
-
 				<input className="btn btn-primary" type="submit" value="Sign Up" />
 			</form>
 		</main>
