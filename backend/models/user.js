@@ -10,7 +10,6 @@ module.exports = (sequelize, DataTypes) => {
     }
 
   };
-
   User.init({
     userId: {
       type: DataTypes.SMALLINT,
