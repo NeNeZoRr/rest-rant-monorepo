@@ -16,7 +16,9 @@ Next `cd` into `backend` and run `npm install` to install dependencies for the A
 
 Next, `cd` into `frontend`, and run `npm install` to install dependencies for the React app.
 
-Finally, in separate terminals, run `npm start` in each folder so that the API and React app are running at the same time.
+Finally, in separate terminals, run `npm start` in each folder so that the API and React app are running at the same time. 
+
+For back-end 'npm start' use the following : export NODE_OPTIONS=--openssl-legacy-provider prior to running NPM
 
 ### API (http://localhost:5000)
 | Method | Path                                 | Purpose                                   |
